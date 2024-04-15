@@ -1,0 +1,9 @@
+@keyframes bounce { 0%{ transform:scale(1,1) translateY(0); } 10%{ transform:scale(1.1,.9) translateY(0); } 30%{ transform:scale(.9,1.1)   translateY(-55px);} 50%{ transform:scale(1.05,.95) translateY(0); } 58%{ transform:scale(1,1) translateY(-7px); } 65%{ transform:scale(1,1) translateY(0);} 100%{ transform:scale(1,1) translateY(0);} }
+.bounce1 { animation: bounce 1s ease infinite; color:var(--bs-red); }
+.bounce2 { animation: bounce 1s ease infinite .1s; color:var(--bs-orange); }
+.bounce3 { animation: bounce 1s ease infinite .2s; color:var(--bs-yellow); }
+.bounce4 { animation: bounce 1s ease infinite .3s; color:var(--bs-green); }
+.bounce5 { animation: bounce 1s ease infinite .4s; color:var(--bs-blue); }
+.b, .o, .u, .n, .c, .e { color: #4cc9f0; text-shadow: 0 3px #4361ee, 0 5px #4361ee, 0 7px #4361ee; }
+.bouncing-text { position: relative; display: flex; font-size: 70px; font-family: arial black; }
+.loader {display:flex; flex-direction:column; position:fixed; height:100vh; width:100%; align-items:center; justify-content:center; background:#fff; transition:all 0.3s; z-index:1100;}
