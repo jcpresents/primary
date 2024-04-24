@@ -1,7 +1,7 @@
 [
 	{
 		"name":"Bowling for Columbine",
-		"poster":"./imgs/2023/labyrinth.webp",
+		"poster":"./imgs/2023/bowling-for-columbine.webp",
 		"year":"2002",
 		"ratingNameOne":"In-Your-Face",
 		"ratingOne":4,
@@ -11,7 +11,7 @@
 	},
 	{
 		"name":"Adaptation",
-		"poster":"./imgs/2023/dude-wheres-my-car.webp",
+		"poster":"./imgs/2023/adaptation.webp",
 		"year":"2002",
 		"ratingNameOne":"Cerebral",
 		"ratingOne":5,
@@ -21,17 +21,17 @@
 	},
 	{
 		"name":"Dune",
-		"poster":"./imgs/2023/equilibrium.webp",
+		"poster":"./imgs/2023/dune.webp",
 		"year":"1984",
 		"ratingNameOne":"Epic",
 		"ratingOne":5,
 		"ratingNameTwo":"Insane",
 		"ratingTwo":4,
-		"description":"Another classic David Lynch nightmare, this movie tries to cover the entire plot of Frank Herbert's <i>Dune</i> in one go. Long, dark, and dense."
+		"description":"Another classic David Lynch nightmare, this movie tries to cover the entire plot of Frank Herbert's <i>Dune</i> in one go. Long, dark, dense, and extremely weird."
 	},
 	{
 		"name":"A Bug's Life",
-		"poster":"./imgs/2023/eastern-promises.webp",
+		"poster":"./imgs/2023/a-bugs-life.webp",
 		"year":"1998",
 		"ratingNameOne":"Voice Acting",
 		"ratingOne":4,
@@ -41,7 +41,7 @@
 	},
 	{
 		"name":"John Dies at the End",
-		"poster":"./imgs/2023/pee-wees-big-adventure.webp",
+		"poster":"./imgs/2023/john-dies-at-the-end.webp",
 		"year":"2012",
 		"ratingNameOne":"Bizarre",
 		"ratingOne":4,
@@ -50,74 +50,74 @@
 		"description":"Surreal reality-bending type movie. Lots of quirky comedy and cthulhu type stuff, with a surprising amount of depth."
 	},
 	{
-		"name":"The Fury",
-		"poster":"./imgs/2023/the-fury.webp",
-		"year":"1978",
-		"ratingNameOne":"Badass",
-		"ratingOne":5,
-		"ratingNameTwo":"Classic",
+		"name":"Unbreakable",
+		"poster":"./imgs/2023/unbreakable.webp",
+		"year":"2000",
+		"ratingNameOne":"Thoughtful",
+		"ratingOne":4,
+		"ratingNameTwo":"Gritty",
 		"ratingTwo":4,
-		"description":"An ex-CIA operative has to use his spy powers to rescue his son from an evil group of psychic terrorists. This De Palma film is beautifully shot and surprisingly batshit."
+		"description":"One of M. Night Shyamalan's best, and a top-tier superhero movie. Bruce Willis and Sam Jackson kill it in this slow, dark character study."
 	},
 	{
-		"name":"The Even Stevens Movie",
-		"poster":"./imgs/2023/even-stevens-movie.webp",
-		"year":"2003",
-		"ratingNameOne":"DCOM",
-		"ratingOne":4,
-		"ratingNameTwo":"Wacky",
-		"ratingTwo":5,
-		"description":"I have no idea what is in this movie except for Shia LeBeouf and Beans. This is Mingo's second Disney Channel Original Movie and evidently is the final episode of Even Stevens."
-	},
-	{
-		"name":"Ex Machina",
-		"poster":"./imgs/2023/ex-machina.webp",
-		"year":"2014",
-		"ratingNameOne":"Brooding",
-		"ratingOne":4,
-		"ratingNameTwo":"Chill",
-		"ratingTwo":4,
-		"description":"A young programmer gets in over his head when he finds himself face to face with an artifical intelligence. Solid sci-fi flick that's pretty casual."
-	},
-	{
-		"name":"Men Who Stare at Goats",
-		"poster":"./imgs/2023/the-men-who-stare-at-goats.webp",
-		"year":"2009",
-		"ratingNameOne":"Philosophical",
-		"ratingOne":4,
-		"ratingNameTwo":"Star Power",
-		"ratingTwo":5,
-		"description":"George Clooney tells the story of his time in the U.S. Army's MK Ultra-type program. This one's pretty fun and has an all-star ensemble cast."
-	},
-	{
-		"name":"Tenet",
-		"poster":"./imgs/2023/tenet.webp",
-		"year":"2020",
-		"ratingNameOne":"Mindfuck",
+		"name":"Willy Wonka & the Chocolate Factory",
+		"poster":"./imgs/2023/willy-wonka--the-chocolate-factory.webp",
+		"year":"1971",
+		"ratingNameOne":"Musical",
 		"ratingOne":5,
-		"ratingNameTwo":"Elaborate",
-		"ratingTwo":5,
-		"description":"Christopher Nolan knocks out another bastard of a movie in this action/sci-fi epic. Time travel like you've never seen it, and maybe on my second watch I'll actually understand it."
+		"ratingNameTwo":"Stylized",
+		"ratingTwo":4,
+		"description":""
 	},
 	{
-		"name":"A.I.",
-		"poster":"./imgs/2023/ai.webp",
-		"year":"2001",
-		"ratingNameOne":"Sad",
+		"name":"Vengeance",
+		"poster":"./imgs/2023/vengeance.webp",
+		"year":"2022",
+		"ratingNameOne":"Southern",
 		"ratingOne":4,
-		"ratingNameTwo":"Hardcore",
-		"ratingTwo":5,
-		"description":"Stanley Kubrick's final film (sort of). He started work on it, and then after he died fucking Steven Spielberg took over. A haunting adventure/tragedy."
+		"ratingNameTwo":"Heartfelt",
+		"ratingTwo":4,
+		"description":"<i>Vengeance</i> is an indie comedy about a fish-out-of-water in Texas. Suprising depth and emotional core to this one, despite it being a little goofy."
 	},
 	{
-		"name":"Kung Fu Hustle",
-		"poster":"./imgs/2023/kung-fu-hustle.webp",
-		"year":"2004",
-		"ratingNameOne":"Goofy",
+		"name":"Waking Ned Devine",
+		"poster":"./imgs/2023/waking-ned-devine.webp",
+		"year":"1998",
+		"ratingNameOne":"Irish",
+		"ratingOne":5,
+		"ratingNameTwo":"Cute",
+		"ratingTwo":4,
+		"description":"A really quirky and whimsical comedy about lottery fraud in a small irish village. The kind of movie that doesn't get made anymore."
+	},
+	{
+		"name":"The Town",
+		"poster":"./imgs/2023/the-town.webp",
+		"year":"2010",
+		"ratingNameOne":"Thrilling",
 		"ratingOne":4,
-		"ratingNameTwo":"Solid",
+		"ratingNameTwo":"Ben Affleck",
 		"ratingTwo":5,
-		"description":"After getting wrapped up with the mob, a young rogue must navigate his way through a world of martial arts masters and cartoon physics. Surprisingly layered and deep."
+		"description":"<i>The Town</i> is an action-packed crime thriller directed by Ben Affleck and starring Ben Affleck (and some others). Tense, dynamic, strong performances."
+	},
+	{
+		"name":"Short Circuit 2",
+		"poster":"./imgs/2023/short-circuit-2.webp",
+		"year":"1988",
+		"ratingNameOne":"Cool Robot",
+		"ratingOne":4,
+		"ratingNameTwo":"Better than the First One",
+		"ratingTwo":5,
+		"description":"A pretty badass robot rolls around 80's New York and goes on an adventure. Impressive special effects and a relaxed family-friendly tone."
+	},
+	{
+		"name":"Joker",
+		"poster":"./imgs/2023/joker.webp",
+		"year":"2019",
+		"ratingNameOne":"Bleak",
+		"ratingOne":4,
+		"ratingNameTwo":"Complex",
+		"ratingTwo":3,
+		"description":"This iconic anti-hero character study has a little more depth than your average comic book movie. Deals with some controversial topics."
 	},
 	{
 		"name":"Free Space",
@@ -130,94 +130,94 @@
 		"description":"Watch a movie of your choice. It can be any that you've wanted to watch but I recommend watching something similar in theme of this year's movies."
 	},
 	{
-		"name":"The Farthest",
-		"poster":"./imgs/2023/the-farthest.webp",
-		"year":"2017",
-		"ratingNameOne":"Space",
+		"name":"Hellboy",
+		"poster":"./imgs/2023/hellboy.webp",
+		"year":"2004",
+		"ratingNameOne":"Badass",
 		"ratingOne":5,
-		"ratingNameTwo":"Beautiful",
-		"ratingTwo":5,
-		"description":"A damn fine documentary about the Voyager probes. Features some absoultely top-tier space footage."
-	},
-	{
-		"name":"Tropic Thunder",
-		"poster":"./imgs/2023/tropic-thunder.webp",
-		"year":"2008",
-		"ratingNameOne":"Comedy",
-		"ratingOne":5,
-		"ratingNameTwo":"Pretty Good Movie",
-		"ratingTwo":5,
-		"description":"This modern classic ensemble comedy sees a group of actors shoot on location in Vietnam, only to get caught up in an actual war for their survival. Great production value and unbelievable cast."
-	},
-	{
-		"name":"Goodfellas",
-		"poster":"./imgs/2023/goodfellas.webp",
-		"year":"1990",
-		"ratingNameOne":"All-time Great",
-		"ratingOne":5,
-		"ratingNameTwo":"Wild Ride",
-		"ratingTwo":5,
-		"description":"Possibly Scorcese's best film. A deep and personal study of the italian mob. Rest in peace Ray Liotta."
-	},
-	{
-		"name":"Bullet Train",
-		"poster":"./imgs/2023/bullet-train.webp",
-		"year":"2022",
-		"ratingNameOne":"Netflix",
-		"ratingOne":5,
-		"ratingNameTwo":"Action?",
+		"ratingNameTwo":"Immersive",
 		"ratingTwo":4,
-		"description":"Never seen this Netflix film, something about assassins on a train. Featuring Brad Pitt and Bad Bunny."
+		"description":"An early comic book adaptation by Guillermo del Toro. Crazy special effects and a batshit plot."
 	},
 	{
-		"name":"Rush Hour 2",
-		"poster":"./imgs/2023/rush-hour-2.webp",
-		"year":"2001",
-		"ratingNameOne":"Action",
+		"name":"The Seven-per-cent Solution",
+		"poster":"./imgs/2023/seve-per-cent.webp",
+		"year":"1974",
+		"ratingNameOne":"Complex",
 		"ratingOne":4,
-		"ratingNameTwo":"Comedy",
+		"ratingNameTwo":"Old",
 		"ratingTwo":4,
-		"description":"Sequel to the very fun <i>Rush Hour</i>, this time they're in China! Expect awesome stunts and fish-out-of-water comedy."
+		"description":"Mysterious and layered Sherlock Holmes film. A unique take on a classic character, featuring some heavy-hitting actors of the 70's."
 	},
 	{
-		"name":"Kiki's Delivery Service",
-		"poster":"./imgs/2023/kikis-delivery-service.webp",
-		"year":"1989",
+		"name":"Point Break",
+		"poster":"./imgs/2023/point-break.webp",
+		"year":"1991",
+		"ratingNameOne":"Top-Tier Action",
+		"ratingOne":5,
+		"ratingNameTwo":"Iconic",
+		"ratingTwo":4,
+		"description":"High-octane thrill ride featuring Keanu Reeves and Patrick Swayze. Known for its intense stunts and legendary bromance."
+	},
+	{
+		"name":"Planet of the Apes",
+		"poster":"./imgs/2023/bullet-train.webp",
+		"year":"1968",
+		"ratingNameOne":"Iconic",
+		"ratingOne":5,
+		"ratingNameTwo":"Old",
+		"ratingTwo":4,
+		"description":"Sci-fi classic featuring Charleton Heston on a planet full of apes. Old, dry, highly influential."
+	},
+	{
+		"name":"Dr. Strangelove",
+		"poster":"./imgs/2023/rush-hour-2.webp",
+		"year":"1964",
+		"ratingNameOne":"Classic",
+		"ratingOne":5,
+		"ratingNameTwo":"Witty",
+		"ratingTwo":5,
+		"description":"A Kubrick-directed masterpiece. This layered and complex comedy ironically has one of this year's shortest runtimes."
+	},
+	{
+		"name":"Akira",
+		"poster":"./imgs/2023/akira.webp",
+		"year":"1988",
 		"ratingNameOne":"Anime",
 		"ratingOne":5,
-		"ratingNameTwo":"Slice of Life",
+		"ratingNameTwo":"Influential",
 		"ratingTwo":4,
-		"description":"Gotta love the Miyazaki films. Features a young witch and a cat. Seems pretty chill."
+		"description":"<i>Akira</i> is widely known for its lush animation sequences and nonsensical plot. It's a post-apocalyptic cyberpunk movie about mutant psychic children or something."
 	},
 	{
-		"name":"The Fifth Element",
-		"poster":"./imgs/2023/the-fifth-element.webp",
-		"year":"1997",
-		"ratingNameOne":"Visionary",
+		"name":"I Love You, Man",
+		"poster":"./imgs/2023/i-love-you-man.webp",
+		"year":"2009",
+		"ratingNameOne":"Comical",
 		"ratingOne":4,
-		"ratingNameTwo":"Badass",
+		"ratingNameTwo":"Fun",
 		"ratingTwo":4,
-		"description":"This manic sci-fi is known for its insane worldbuilding and tight execution. Bruce Willis and Mila Jovovich kick ass, and Chris Tucker is there, too. Also Gary Oldman."
+		"description":"A relaxed comedy of the aughts. Paul Rudd and Jason Segel tear it up with their charisma and chemistry on-screen."
 	},
 	{
-		"name":"The Boodock Saints",
-		"poster":"./imgs/2023/the-boondock-saints.webp",
-		"year":"1999",
-		"ratingNameOne":"Badass",
+		"name":"Aliens",
+		"poster":"./imgs/2023/aliens.webp",
+		"year":"1986",
+		"ratingNameOne":"Action",
 		"ratingOne":4,
-		"ratingNameTwo":"Comedy",
-		"ratingTwo":4,
-		"description":"Two brothers become folk heros by assassinating criminals and generally being badasses. This a indie action/comedy is notoriously fun. "
+		"ratingNameTwo":"Effects",
+		"ratingTwo":5,
+		"description":"A fitting sequel to <i>Alien</i>, <i>Aliens</i> is less about suspense and more about badass explosive machine guns. Pretty long runtime."
 	},
 	{
-		"name":"Rubber",
-		"poster":"./imgs/2023/rubber.webp",
-		"year":"2010",
-		"ratingNameOne":"Bizarre",
+		"name":"Sideways",
+		"poster":"./imgs/2023/sideways.webp",
+		"year":"2004",
+		"ratingNameOne":"Understated",
 		"ratingOne":5,
-		"ratingNameTwo":"Mindfuck",
+		"ratingNameTwo":"Touching",
 		"ratingTwo":4,
-		"description":"This one is a hell of a thing. Experimental, violent and more than a little uncomfortable to watch."
+		"description":"<i>Sideways</i> is a critically-acclaimed indie comedy-drama, a soul-searching movie about a writer and his friend going on a tour through wine country. Great performances."
 	},
 	{
 		"name":"Bernie",
