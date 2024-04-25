@@ -1,7 +1,7 @@
 [
 	{
 		"name":"Bowling for Columbine",
-		"poster":"./imgs/2023/bowling-for-columbine.webp",
+		"poster":"./imgs/2024/bowling-for-columbine.webp",
 		"year":"2002",
 		"ratingNameOne":"In-Your-Face",
 		"ratingOne":4,
@@ -11,7 +11,7 @@
 	},
 	{
 		"name":"Adaptation",
-		"poster":"./imgs/2023/adaptation.webp",
+		"poster":"./imgs/2024/adaptation.webp",
 		"year":"2002",
 		"ratingNameOne":"Cerebral",
 		"ratingOne":5,
@@ -21,7 +21,7 @@
 	},
 	{
 		"name":"Dune",
-		"poster":"./imgs/2023/dune.webp",
+		"poster":"./imgs/2024/dune.webp",
 		"year":"1984",
 		"ratingNameOne":"Epic",
 		"ratingOne":5,
@@ -31,7 +31,7 @@
 	},
 	{
 		"name":"A Bug's Life",
-		"poster":"./imgs/2023/a-bugs-life.webp",
+		"poster":"./imgs/2024/a-bugs-life.webp",
 		"year":"1998",
 		"ratingNameOne":"Voice Acting",
 		"ratingOne":4,
@@ -41,7 +41,7 @@
 	},
 	{
 		"name":"John Dies at the End",
-		"poster":"./imgs/2023/john-dies-at-the-end.webp",
+		"poster":"./imgs/2024/john-dies-at-the-end.webp",
 		"year":"2012",
 		"ratingNameOne":"Bizarre",
 		"ratingOne":4,
@@ -51,7 +51,7 @@
 	},
 	{
 		"name":"Unbreakable",
-		"poster":"./imgs/2023/unbreakable.webp",
+		"poster":"./imgs/2024/unbreakable.webp",
 		"year":"2000",
 		"ratingNameOne":"Thoughtful",
 		"ratingOne":4,
@@ -61,7 +61,7 @@
 	},
 	{
 		"name":"Willy Wonka & the Chocolate Factory",
-		"poster":"./imgs/2023/willy-wonka--the-chocolate-factory.webp",
+		"poster":"./imgs/2024/willy-wonka--the-chocolate-factory.webp",
 		"year":"1971",
 		"ratingNameOne":"Musical",
 		"ratingOne":5,
@@ -71,7 +71,7 @@
 	},
 	{
 		"name":"Vengeance",
-		"poster":"./imgs/2023/vengeance.webp",
+		"poster":"./imgs/2024/vengeance.webp",
 		"year":"2022",
 		"ratingNameOne":"Southern",
 		"ratingOne":4,
@@ -81,7 +81,7 @@
 	},
 	{
 		"name":"Waking Ned Devine",
-		"poster":"./imgs/2023/waking-ned-devine.webp",
+		"poster":"./imgs/2024/waking-ned-devine.webp",
 		"year":"1998",
 		"ratingNameOne":"Irish",
 		"ratingOne":5,
@@ -91,7 +91,7 @@
 	},
 	{
 		"name":"The Town",
-		"poster":"./imgs/2023/the-town.webp",
+		"poster":"./imgs/2024/the-town.webp",
 		"year":"2010",
 		"ratingNameOne":"Thrilling",
 		"ratingOne":4,
@@ -101,7 +101,7 @@
 	},
 	{
 		"name":"Short Circuit 2",
-		"poster":"./imgs/2023/short-circuit-2.webp",
+		"poster":"./imgs/2024/short-circuit-2.webp",
 		"year":"1988",
 		"ratingNameOne":"Cool Robot",
 		"ratingOne":4,
@@ -111,7 +111,7 @@
 	},
 	{
 		"name":"Joker",
-		"poster":"./imgs/2023/joker.webp",
+		"poster":"./imgs/2024/joker.webp",
 		"year":"2019",
 		"ratingNameOne":"Bleak",
 		"ratingOne":4,
@@ -131,7 +131,7 @@
 	},
 	{
 		"name":"Hellboy",
-		"poster":"./imgs/2023/hellboy.webp",
+		"poster":"./imgs/2024/hellboy.webp",
 		"year":"2004",
 		"ratingNameOne":"Badass",
 		"ratingOne":5,
@@ -141,7 +141,7 @@
 	},
 	{
 		"name":"The Seven-per-cent Solution",
-		"poster":"./imgs/2023/seve-per-cent.webp",
+		"poster":"./imgs/2024/seve-per-cent.webp",
 		"year":"1974",
 		"ratingNameOne":"Complex",
 		"ratingOne":4,
@@ -151,7 +151,7 @@
 	},
 	{
 		"name":"Point Break",
-		"poster":"./imgs/2023/point-break.webp",
+		"poster":"./imgs/2024/point-break.webp",
 		"year":"1991",
 		"ratingNameOne":"Top-Tier Action",
 		"ratingOne":5,
@@ -161,7 +161,7 @@
 	},
 	{
 		"name":"Planet of the Apes",
-		"poster":"./imgs/2023/bullet-train.webp",
+		"poster":"./imgs/2024/bullet-train.webp",
 		"year":"1968",
 		"ratingNameOne":"Iconic",
 		"ratingOne":5,
@@ -171,7 +171,7 @@
 	},
 	{
 		"name":"Dr. Strangelove",
-		"poster":"./imgs/2023/rush-hour-2.webp",
+		"poster":"./imgs/2024/rush-hour-2.webp",
 		"year":"1964",
 		"ratingNameOne":"Classic",
 		"ratingOne":5,
@@ -181,7 +181,7 @@
 	},
 	{
 		"name":"Akira",
-		"poster":"./imgs/2023/akira.webp",
+		"poster":"./imgs/2024/akira.webp",
 		"year":"1988",
 		"ratingNameOne":"Anime",
 		"ratingOne":5,
@@ -191,7 +191,7 @@
 	},
 	{
 		"name":"I Love You, Man",
-		"poster":"./imgs/2023/i-love-you-man.webp",
+		"poster":"./imgs/2024/i-love-you-man.webp",
 		"year":"2009",
 		"ratingNameOne":"Comical",
 		"ratingOne":4,
@@ -201,7 +201,7 @@
 	},
 	{
 		"name":"Aliens",
-		"poster":"./imgs/2023/aliens.webp",
+		"poster":"./imgs/2024/aliens.webp",
 		"year":"1986",
 		"ratingNameOne":"Action",
 		"ratingOne":4,
@@ -211,7 +211,7 @@
 	},
 	{
 		"name":"Sideways",
-		"poster":"./imgs/2023/sideways.webp",
+		"poster":"./imgs/2024/sideways.webp",
 		"year":"2004",
 		"ratingNameOne":"Understated",
 		"ratingOne":5,
@@ -220,33 +220,33 @@
 		"description":"<i>Sideways</i> is a critically-acclaimed indie comedy-drama, a soul-searching movie about a writer and his friend going on a tour through wine country. Great performances."
 	},
 	{
-		"name":"Bernie",
-		"poster":"./imgs/2023/bernie.webp",
-		"year":"2011",
-		"ratingNameOne":"Heartfelt",
+		"name":"Moonwalker",
+		"poster":"./imgs/2024/moonwalker.webp",
+		"year":"1988",
+		"ratingNameOne":"Wild",
+		"ratingOne":5,
+		"ratingNameTwo":"Michael Jackson",
+		"ratingTwo":5,
+		"description":"This anthology is a mix of music videos, montages, concert footage and a tiny little movie stuck right in the middle. And it's all about MJ, baby."
+	},
+	{
+		"name":"Idle Hands",
+		"poster":"./imgs/2024/idle-hands.webp",
+		"year":"1999",
+		"ratingNameOne":"Bizarre",
 		"ratingOne":4,
-		"ratingNameTwo":"True Story",
-		"ratingTwo":5,
-		"description":"Jack Black kills it in this touching true-crime drama about a mortician who makes a big mistake. This movie is sad, sweet, and extremely Texas. True story, too."
-	},
-	{
-		"name":"The Way of the Dragon",
-		"poster":"./imgs/2023/the-way-of-the-dragon.webp",
-		"year":"1972",
-		"ratingNameOne":"Badass",
-		"ratingOne":5,
-		"ratingNameTwo":"Bruce Lee",
-		"ratingTwo":5,
-		"description":""
-	},
-	{
-		"name":"Up in Smoke",
-		"poster":"./imgs/2023/up-in-smoke.webp",
-		"year":"1978",
-		"ratingNameOne":"Stoner Comedy",
-		"ratingOne":5,
-		"ratingNameTwo":"Classic",
+		"ratingNameTwo":"Gory",
 		"ratingTwo":4,
-		"description":"Cheech and Chong, dude! I don't remember anything about this movie except that it's the kind of funny they don't make anymore."
+		"description":"This is some kind of horror-comedy stoner movie, I think. Interesting concept and performances have made this movie something of a cult classic."
+	},
+	{
+		"name":"Fateful Findings",
+		"poster":"./imgs/2024/fateful.webp",
+		"year":"2013",
+		"ratingNameOne":"Drama",
+		"ratingOne":5,
+		"ratingNameTwo":"B-Movie",
+		"ratingTwo":5,
+		"description":"This nonsensical masterpiece comes to us from Neil Breen, the Stanley Kubrick of b-movies. Bizarre, nightmarish, and weirdly uncomfortable at times."
 	}
 ]
