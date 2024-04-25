@@ -141,7 +141,7 @@
 	},
 	{
 		"name":"The Seven-per-cent Solution",
-		"poster":"./imgs/2024/seve-per-cent.webp",
+		"poster":"./imgs/2024/per-cent.webp",
 		"year":"1974",
 		"ratingNameOne":"Complex",
 		"ratingOne":4,
@@ -161,7 +161,7 @@
 	},
 	{
 		"name":"Planet of the Apes",
-		"poster":"./imgs/2024/bullet-train.webp",
+		"poster":"./imgs/2024/planet-of-the-apes.webp",
 		"year":"1968",
 		"ratingNameOne":"Iconic",
 		"ratingOne":5,
@@ -171,7 +171,7 @@
 	},
 	{
 		"name":"Dr. Strangelove",
-		"poster":"./imgs/2024/rush-hour-2.webp",
+		"poster":"./imgs/2024/dr-strangelove.webp",
 		"year":"1964",
 		"ratingNameOne":"Classic",
 		"ratingOne":5,
