@@ -1,5 +1,75 @@
 [
 	{
+		"name":"Unbreakable",
+		"poster":"./imgs/2024/unbreakable.webp",
+		"year":"2000",
+		"ratingNameOne":"Thoughtful",
+		"ratingOne":4,
+		"ratingNameTwo":"Gritty",
+		"ratingTwo":4,
+		"description":"One of M. Night Shyamalan's best, and a top-tier superhero movie. Bruce Willis and Sam Jackson kill it in this slow, dark character study."
+	},
+	{
+		"name":"Hellboy",
+		"poster":"./imgs/2024/hellboy.webp",
+		"year":"2004",
+		"ratingNameOne":"Badass",
+		"ratingOne":5,
+		"ratingNameTwo":"Immersive",
+		"ratingTwo":4,
+		"description":"An early comic book adaptation by Guillermo del Toro. Crazy special effects and a batshit plot."
+	},
+	{
+		"name":"A Bug's Life",
+		"poster":"./imgs/2024/a-bugs-life.webp",
+		"year":"1998",
+		"ratingNameOne":"Voice Acting",
+		"ratingOne":4,
+		"ratingNameTwo":"Disney-Pixar",
+		"ratingTwo":5,
+		"description":"Saddled right between <i>Toy Story</i> 1&2, this early CGI film is a Pixar classic."
+	},
+	{
+		"name":"Dr. Strangelove",
+		"poster":"./imgs/2024/dr-strangelove.webp",
+		"year":"1964",
+		"ratingNameOne":"Classic",
+		"ratingOne":5,
+		"ratingNameTwo":"Witty",
+		"ratingTwo":5,
+		"description":"A Kubrick-directed masterpiece. This layered and complex comedy ironically has one of this year's shortest runtimes."
+	},
+	{
+		"name":"John Dies at the End",
+		"poster":"./imgs/2024/john-dies-at-the-end.webp",
+		"year":"2012",
+		"ratingNameOne":"Bizarre",
+		"ratingOne":4,
+		"ratingNameTwo":"Indie",
+		"ratingTwo":4,
+		"description":"Surreal reality-bending type movie. Lots of quirky comedy and cthulhu type stuff, with a surprising amount of depth."
+	},
+	{
+		"name":"Dune",
+		"poster":"./imgs/2024/dune.webp",
+		"year":"1984",
+		"ratingNameOne":"Epic",
+		"ratingOne":5,
+		"ratingNameTwo":"Insane",
+		"ratingTwo":4,
+		"description":"Another classic David Lynch nightmare, this movie tries to cover the entire plot of Frank Herbert's <i>Dune</i> in one go. Long, dark, dense, and extremely weird."
+	},
+	{
+		"name":"I Love You, Man",
+		"poster":"./imgs/2024/i-love-you-man.webp",
+		"year":"2009",
+		"ratingNameOne":"Comical",
+		"ratingOne":4,
+		"ratingNameTwo":"Fun",
+		"ratingTwo":4,
+		"description":"A relaxed comedy of the aughts. Paul Rudd and Jason Segel tear it up with their charisma and chemistry on-screen."
+	},
+	{
 		"name":"Bowling for Columbine",
 		"poster":"./imgs/2024/bowling-for-columbine.webp",
 		"year":"2002",
@@ -20,74 +90,14 @@
 		"description":"A surreal action/comedy/romance where the movie is kind of about the writing of the movie? Nick Cage plays twins in the style of <i>Parent Trap</i>."
 	},
 	{
-		"name":"Dune",
-		"poster":"./imgs/2024/dune.webp",
-		"year":"1984",
-		"ratingNameOne":"Epic",
+		"name":"Point Break",
+		"poster":"./imgs/2024/point-break.webp",
+		"year":"1991",
+		"ratingNameOne":"Top-Tier Action",
 		"ratingOne":5,
-		"ratingNameTwo":"Insane",
+		"ratingNameTwo":"Iconic",
 		"ratingTwo":4,
-		"description":"Another classic David Lynch nightmare, this movie tries to cover the entire plot of Frank Herbert's <i>Dune</i> in one go. Long, dark, dense, and extremely weird."
-	},
-	{
-		"name":"A Bug's Life",
-		"poster":"./imgs/2024/a-bugs-life.webp",
-		"year":"1998",
-		"ratingNameOne":"Voice Acting",
-		"ratingOne":4,
-		"ratingNameTwo":"Disney-Pixar",
-		"ratingTwo":5,
-		"description":"Saddled right between <i>Toy Story</i> 1&2, this early CGI film is a Pixar classic."
-	},
-	{
-		"name":"John Dies at the End",
-		"poster":"./imgs/2024/john-dies-at-the-end.webp",
-		"year":"2012",
-		"ratingNameOne":"Bizarre",
-		"ratingOne":4,
-		"ratingNameTwo":"Indie",
-		"ratingTwo":4,
-		"description":"Surreal reality-bending type movie. Lots of quirky comedy and cthulhu type stuff, with a surprising amount of depth."
-	},
-	{
-		"name":"Unbreakable",
-		"poster":"./imgs/2024/unbreakable.webp",
-		"year":"2000",
-		"ratingNameOne":"Thoughtful",
-		"ratingOne":4,
-		"ratingNameTwo":"Gritty",
-		"ratingTwo":4,
-		"description":"One of M. Night Shyamalan's best, and a top-tier superhero movie. Bruce Willis and Sam Jackson kill it in this slow, dark character study."
-	},
-	{
-		"name":"Willy Wonka & the Chocolate Factory",
-		"poster":"./imgs/2024/willy-wonka--the-chocolate-factory.webp",
-		"year":"1971",
-		"ratingNameOne":"Musical",
-		"ratingOne":5,
-		"ratingNameTwo":"Stylized",
-		"ratingTwo":4,
-		"description":""
-	},
-	{
-		"name":"Vengeance",
-		"poster":"./imgs/2024/vengeance.webp",
-		"year":"2022",
-		"ratingNameOne":"Southern",
-		"ratingOne":4,
-		"ratingNameTwo":"Heartfelt",
-		"ratingTwo":4,
-		"description":"<i>Vengeance</i> is an indie comedy about a fish-out-of-water in Texas. Suprising depth and emotional core to this one, despite it being a little goofy."
-	},
-	{
-		"name":"Waking Ned Devine",
-		"poster":"./imgs/2024/waking-ned-devine.webp",
-		"year":"1998",
-		"ratingNameOne":"Irish",
-		"ratingOne":5,
-		"ratingNameTwo":"Cute",
-		"ratingTwo":4,
-		"description":"A really quirky and whimsical comedy about lottery fraud in a small irish village. The kind of movie that doesn't get made anymore."
+		"description":"High-octane thrill ride featuring Keanu Reeves and Patrick Swayze. Known for its intense stunts and legendary bromance."
 	},
 	{
 		"name":"The Town",
@@ -100,24 +110,14 @@
 		"description":"<i>The Town</i> is an action-packed crime thriller directed by Ben Affleck and starring Ben Affleck (and some others). Tense, dynamic, strong performances."
 	},
 	{
-		"name":"Short Circuit 2",
-		"poster":"./imgs/2024/short-circuit-2.webp",
+		"name":"Akira",
+		"poster":"./imgs/2024/akira.webp",
 		"year":"1988",
-		"ratingNameOne":"Cool Robot",
-		"ratingOne":4,
-		"ratingNameTwo":"Better than the First One",
-		"ratingTwo":5,
-		"description":"A pretty badass robot rolls around 80's New York and goes on an adventure. Impressive special effects and a relaxed family-friendly tone."
-	},
-	{
-		"name":"Joker",
-		"poster":"./imgs/2024/joker.webp",
-		"year":"2019",
-		"ratingNameOne":"Bleak",
-		"ratingOne":4,
-		"ratingNameTwo":"Complex",
-		"ratingTwo":3,
-		"description":"This iconic anti-hero character study has a little more depth than your average comic book movie. Deals with some controversial topics."
+		"ratingNameOne":"Anime",
+		"ratingOne":5,
+		"ratingNameTwo":"Influential",
+		"ratingTwo":4,
+		"description":"<i>Akira</i> is widely known for its lush animation sequences and nonsensical plot. It's a post-apocalyptic cyberpunk movie about mutant psychic children or something."
 	},
 	{
 		"name":"Free Space",
@@ -130,84 +130,34 @@
 		"description":"Watch a movie of your choice. It can be any that you've wanted to watch but I recommend watching something similar in theme of this year's movies."
 	},
 	{
-		"name":"Hellboy",
-		"poster":"./imgs/2024/hellboy.webp",
-		"year":"2004",
-		"ratingNameOne":"Badass",
+		"name":"Waking Ned Devine",
+		"poster":"./imgs/2024/waking-ned-devine.webp",
+		"year":"1998",
+		"ratingNameOne":"Irish",
 		"ratingOne":5,
-		"ratingNameTwo":"Immersive",
+		"ratingNameTwo":"Cute",
 		"ratingTwo":4,
-		"description":"An early comic book adaptation by Guillermo del Toro. Crazy special effects and a batshit plot."
+		"description":"A really quirky and whimsical comedy about lottery fraud in a small irish village. The kind of movie that doesn't get made anymore."
 	},
 	{
-		"name":"The Seven-per-cent Solution",
-		"poster":"./imgs/2024/per-cent.webp",
-		"year":"1974",
-		"ratingNameOne":"Complex",
+		"name":"Joker",
+		"poster":"./imgs/2024/joker.webp",
+		"year":"2019",
+		"ratingNameOne":"Bleak",
 		"ratingOne":4,
-		"ratingNameTwo":"Old",
-		"ratingTwo":4,
-		"description":"Mysterious and layered Sherlock Holmes film. A unique take on a classic character, featuring some heavy-hitting actors of the 70's."
+		"ratingNameTwo":"Complex",
+		"ratingTwo":3,
+		"description":"This iconic anti-hero character study has a little more depth than your average comic book movie. Deals with some controversial topics."
 	},
 	{
-		"name":"Point Break",
-		"poster":"./imgs/2024/point-break.webp",
-		"year":"1991",
-		"ratingNameOne":"Top-Tier Action",
-		"ratingOne":5,
-		"ratingNameTwo":"Iconic",
-		"ratingTwo":4,
-		"description":"High-octane thrill ride featuring Keanu Reeves and Patrick Swayze. Known for its intense stunts and legendary bromance."
-	},
-	{
-		"name":"Planet of the Apes",
-		"poster":"./imgs/2024/planet-of-the-apes.webp",
-		"year":"1968",
-		"ratingNameOne":"Iconic",
-		"ratingOne":5,
-		"ratingNameTwo":"Old",
-		"ratingTwo":4,
-		"description":"Sci-fi classic featuring Charleton Heston on a planet full of apes. Old, dry, highly influential."
-	},
-	{
-		"name":"Dr. Strangelove",
-		"poster":"./imgs/2024/dr-strangelove.webp",
-		"year":"1964",
-		"ratingNameOne":"Classic",
-		"ratingOne":5,
-		"ratingNameTwo":"Witty",
-		"ratingTwo":5,
-		"description":"A Kubrick-directed masterpiece. This layered and complex comedy ironically has one of this year's shortest runtimes."
-	},
-	{
-		"name":"Akira",
-		"poster":"./imgs/2024/akira.webp",
+		"name":"Short Circuit 2",
+		"poster":"./imgs/2024/short-circuit-2.webp",
 		"year":"1988",
-		"ratingNameOne":"Anime",
-		"ratingOne":5,
-		"ratingNameTwo":"Influential",
-		"ratingTwo":4,
-		"description":"<i>Akira</i> is widely known for its lush animation sequences and nonsensical plot. It's a post-apocalyptic cyberpunk movie about mutant psychic children or something."
-	},
-	{
-		"name":"I Love You, Man",
-		"poster":"./imgs/2024/i-love-you-man.webp",
-		"year":"2009",
-		"ratingNameOne":"Comical",
+		"ratingNameOne":"Cool Robot",
 		"ratingOne":4,
-		"ratingNameTwo":"Fun",
-		"ratingTwo":4,
-		"description":"A relaxed comedy of the aughts. Paul Rudd and Jason Segel tear it up with their charisma and chemistry on-screen."
-	},
-	{
-		"name":"Aliens",
-		"poster":"./imgs/2024/aliens.webp",
-		"year":"1986",
-		"ratingNameOne":"Action",
-		"ratingOne":4,
-		"ratingNameTwo":"Effects",
+		"ratingNameTwo":"Better than the First One",
 		"ratingTwo":5,
-		"description":"A fitting sequel to <i>Alien</i>, <i>Aliens</i> is less about suspense and more about badass explosive machine guns. Pretty long runtime."
+		"description":"A pretty badass robot rolls around 80's New York and goes on an adventure. Impressive special effects and a relaxed family-friendly tone."
 	},
 	{
 		"name":"Sideways",
@@ -220,14 +170,24 @@
 		"description":"<i>Sideways</i> is a critically-acclaimed indie comedy-drama, a soul-searching movie about a writer and his friend going on a tour through wine country. Great performances."
 	},
 	{
-		"name":"Moonwalker",
-		"poster":"./imgs/2024/moonwalker.webp",
-		"year":"1988",
-		"ratingNameOne":"Wild",
+		"name":"The Seven-per-cent Solution",
+		"poster":"./imgs/2024/per-cent.webp",
+		"year":"1974",
+		"ratingNameOne":"Complex",
+		"ratingOne":4,
+		"ratingNameTwo":"Old",
+		"ratingTwo":4,
+		"description":"Mysterious and layered Sherlock Holmes film. A unique take on a classic character, featuring some heavy-hitting actors of the 70's."
+	},
+	{
+		"name":"Fateful Findings",
+		"poster":"./imgs/2024/fateful.webp",
+		"year":"2013",
+		"ratingNameOne":"Drama",
 		"ratingOne":5,
-		"ratingNameTwo":"Michael Jackson",
+		"ratingNameTwo":"B-Movie",
 		"ratingTwo":5,
-		"description":"This anthology is a mix of music videos, montages, concert footage and a tiny little movie stuck right in the middle. And it's all about MJ, baby."
+		"description":"This nonsensical masterpiece comes to us from Neil Breen, the Stanley Kubrick of b-movies. Bizarre, nightmarish, and weirdly uncomfortable at times."
 	},
 	{
 		"name":"Idle Hands",
@@ -240,13 +200,53 @@
 		"description":"This is some kind of horror-comedy stoner movie, I think. Interesting concept and performances have made this movie something of a cult classic."
 	},
 	{
-		"name":"Fateful Findings",
-		"poster":"./imgs/2024/fateful.webp",
-		"year":"2013",
-		"ratingNameOne":"Drama",
+		"name":"Moonwalker",
+		"poster":"./imgs/2024/moonwalker.webp",
+		"year":"1988",
+		"ratingNameOne":"Wild",
 		"ratingOne":5,
-		"ratingNameTwo":"B-Movie",
+		"ratingNameTwo":"Michael Jackson",
 		"ratingTwo":5,
-		"description":"This nonsensical masterpiece comes to us from Neil Breen, the Stanley Kubrick of b-movies. Bizarre, nightmarish, and weirdly uncomfortable at times."
+		"description":"This anthology is a mix of music videos, montages, concert footage and a tiny little movie stuck right in the middle. And it's all about MJ, baby."
+	},
+	{
+		"name":"Willy Wonka & the Chocolate Factory",
+		"poster":"./imgs/2024/willy-wonka--the-chocolate-factory.webp",
+		"year":"1971",
+		"ratingNameOne":"Musical",
+		"ratingOne":5,
+		"ratingNameTwo":"Stylized",
+		"ratingTwo":4,
+		"description":""
+	},
+	{
+		"name":"Aliens",
+		"poster":"./imgs/2024/aliens.webp",
+		"year":"1986",
+		"ratingNameOne":"Action",
+		"ratingOne":4,
+		"ratingNameTwo":"Effects",
+		"ratingTwo":5,
+		"description":"A fitting sequel to <i>Alien</i>, <i>Aliens</i> is less about suspense and more about badass explosive machine guns. Pretty long runtime."
+	},
+	{
+		"name":"Vengeance",
+		"poster":"./imgs/2024/vengeance.webp",
+		"year":"2022",
+		"ratingNameOne":"Southern",
+		"ratingOne":4,
+		"ratingNameTwo":"Heartfelt",
+		"ratingTwo":4,
+		"description":"<i>Vengeance</i> is an indie comedy about a fish-out-of-water in Texas. Suprising depth and emotional core to this one, despite it being a little goofy."
+	},
+	{
+		"name":"Planet of the Apes",
+		"poster":"./imgs/2024/planet-of-the-apes.webp",
+		"year":"1968",
+		"ratingNameOne":"Iconic",
+		"ratingOne":5,
+		"ratingNameTwo":"Old",
+		"ratingTwo":4,
+		"description":"Sci-fi classic featuring Charleton Heston on a planet full of apes. Old, dry, highly influential."
 	}
 ]

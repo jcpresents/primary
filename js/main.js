@@ -60,7 +60,7 @@ document.addEventListener( "DOMContentLoaded", function() {
 	let urlParams = new URLSearchParams( window.location.search ).get( "year" ), /* Gets page year from address bar */
 		viewMax = screen.width > screen.height ? screen.width : screen.height, /* Get largest screen dimension */
 		yearBtns = document.getElementsByClassName( "nav-year" ),
-		year = urlParams ? urlParams : "2023";
+		year = urlParams ? urlParams : "2024";
 		
 	document.querySelector( ".carousel-control-up" ).addEventListener( "click", function(){ nav_Modal( "ArrowUp" ) });
 document.querySelector( ".carousel-control-down" ).addEventListener( "click", function(){ nav_Modal( "ArrowDown" ) });
