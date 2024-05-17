@@ -115,4 +115,50 @@ p { text-indent:3rem; }
 	/* == Classes == */
 	.wiggle { position:relative; display:inline-block; cursor:default; z-index:1; }
 	.wiggle:not(:hover) { animation:wiggle 1s ease-in-out 0s 1; -webkit-animation:wiggle 1s ease-in-out 0s 1; -moz-animation:wiggle 1s ease-in-out 0s 1; }
+
+	/* == A Bunch of Additional Garbage that Fooly Had No Hand In  ====================================================================== */
+	.top-left-corner {
+		position: absolute;
+		top: 20px;
+		left: 20px;
+		z-index: 1200;
+		padding: 10px;
+		border-radius: 5px;
+	}
+	
+	.top-left-corner img {
+		width: 200px;
+		height: auto;
+	}
+	
+	/* Media query for smaller screens */
+	@media (max-width: 1280px) {
+		.top-left-corner {
+			top: 5px;  /* Adjust as necessary */
+			left: 5px;  /* Adjust as necessary */
+			padding: 5px;  /* Adjust padding for smaller screens */
+		}
+	
+		.top-left-corner img {
+			width: 200px;  /* Adjust size for smaller screens */
+		}
+	}
+	
+	/* Media query for very small screens */
+	@media (max-width: 768px) {
+		.top-left-corner {
+			top: 20;
+			left: 20;
+			right: 20;
+			margin: auto;
+			text-align: center;
+			width: 100%;  /* Make it full width */
+			padding: 5px;
+			box-sizing: border-box;
+		}
+	
+		.top-left-corner img {
+			width: 200px;
+		}
+	}
 }
