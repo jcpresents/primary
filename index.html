@@ -22,11 +22,17 @@
 			.bounce5 { animation: bounce 1s ease infinite .4s; color:var(--bs-blue); }
 			.b, .o, .u, .n, .c, .e { color: #4cc9f0; text-shadow: 0 3px #4361ee, 0 5px #4361ee, 0 7px #4361ee; }
 			.bouncing-text { position: relative; display: flex; font-size: 70px; font-family: arial black; }
-			.loader {display:flex; flex-direction:column; position:fixed; height:100vh; width:100%; align-items:center; justify-content:center; background:#fff; transition:all 0.3s; z-index:1100;}
+			.loader {display:flex; flex-direction:column; position:fixed; height:100vh; width:100%; align-items:center; justify-content:center; background:#fff; transition:all 0.3s; z-index:1100; }
+
 		</style>
 	</head>
 
 	<body>
+		<div class="top-left-corner">
+			<a href="https://angular-mingo.vercel.app/" target="_blank">
+				<img src="./imgs/mingo_app.png" alt="Hyperlink Image">
+			</a>
+		</div>
 		<header>
 			<!-- Loading Screen -->
 			<div class="loader">
